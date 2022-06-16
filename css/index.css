@@ -1,0 +1,16 @@
+.titulo{
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+  
+}
+
+.contenido{
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+h3{
+    font-size: 25px;
+}
