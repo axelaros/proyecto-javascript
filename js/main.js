@@ -1,3 +1,10 @@
+const titulo=document.querySelector(".titulo");
+titulo.innerText="cine del sur";
+
+let pieDePagina=document.createElement("footer");
+pieDePagina.innerHTML="<h3>seguinos en nuestras redes sociales</h3> <p>instagram , facebook , twitter</p> "
+document.body.append(pieDePagina);
+
 let agregaralcarrito=[]
 const carteleraCine=[
 {
